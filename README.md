@@ -35,3 +35,6 @@
 - [**Email:**](mailto:gubenkolera@gmail.com) gubenkolera@gmail.com
 
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriiaHubenko&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
