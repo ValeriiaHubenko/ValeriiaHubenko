@@ -14,7 +14,7 @@
 
 - **[CityZen](https://github.com/ValeriiaHubenko/cityzen-shop)** - Designed and developed an e-commerce website for a Smart home Decor items, with React and Tailwind CSS.
 - **[BookMatch App](https://github.com/ValeriiaHubenko/bookmatch)** - Created a comprehensive design system for a Book matching Web App, using Tinder swipe mechanics. 
-- **[LuxCourt]** - Make a portfolio website for a Tennis Club, with React and Bootstrap.
+- **[LuxCourt](https://github.com/ValeriiaHubenko/LuxCourt)** - Make a Landing page for a Tennis Club, with React and Bootstrap.
 
 
 ### 🛠️ Skills & Tools
